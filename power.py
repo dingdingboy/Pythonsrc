@@ -9,5 +9,7 @@ class Solution(object):
             return tmp&tmp
 
 if __name__ == "__main__":
+    #add a comment
+    print('hello world')
     obj = Solution()
     print(obj.power(2, 4))
